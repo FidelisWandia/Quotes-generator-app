@@ -1,0 +1,58 @@
+
+body{
+    background-image: url('winter.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+    background-image: linear-gradient(#a2d5c6, #077b8a)
+}
+
+#rdmquote{
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+#genQuote{
+    padding: 15px;
+    background:teal;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 10px;
+}
+
+#date{
+    color:antiquewhite;
+    font-size: 1.6rem;
+}
+
+#time{
+    color:antiquewhite;
+    font-size: 1.6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
